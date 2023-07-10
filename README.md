@@ -16,6 +16,6 @@ I graduated from the Ohio State University with a degree in Economics, specializ
 
 Currently focusing on building out various different machine learning projects using AWS services to automate the workloads - putting the output onto my GitHub pages site for everyone to see! 
 
-Also, I'm learning how to contribute to open source projects like [Apache Spark](https://github.com/apache/spark), [Apache Airflow](https://github.com/apache/airflow), [PyTorch](https://github.com/pytorch/pytorch), and [Veloren](https://github.com/veloren/veloren)
+Also, I'm learning how to contribute to open source projects like [Apache Spark](https://github.com/apache/spark), [Apache Airflow](https://github.com/apache/airflow), [PyTorch](https://github.com/pytorch/pytorch), and [Veloren](https://github.com/veloren/veloren). I believe that open source projects are key to a better and more stable tech future.
 
 Feel free to browse through my repositories and check out the cool stuff I've been up to. And if you're interested in collaborating or have any questions, don't hesitate to reach out.
