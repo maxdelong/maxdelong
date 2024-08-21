@@ -1,6 +1,6 @@
 # Welcome! I'm Max DeLong
 
-I love the outdoors and tech. You'll often find me hiking, biking, or lifting in my free time. And when I'm inside, I'm probably playing [Dota 2](https://www.dota2.com/home) or BTD6, training my German shepherd dog Gwyn, or programming whether that be contributing to open source or building out my own projects.
+I love the outdoors and tech. You'll often find me hiking or running in my free time. When I'm inside, I'm probably playing [Dota 2](https://www.dota2.com/home) or BTD6, training my German shepherd dog Gwyn, or programming whether that be contributing to open source or building out my own projects.
 
 ## About Me
 
