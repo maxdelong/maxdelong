@@ -1,21 +1,20 @@
 # Welcome! I'm Max DeLong
 
-I love the outdoors and tech. You'll often find me hiking, biking, or lifting in my free time. And when I'm inside, I'm probably playing (winning) [Dota 2](https://www.dota2.com/home) or training my German shepherd dog Gwyn.
+I love the outdoors and tech. You'll often find me hiking, biking, or lifting in my free time. And when I'm inside, I'm probably playing [Dota 2](https://www.dota2.com/home) or BTD6, training my German shepherd dog Gwyn, or programming whether that be contributing to open source or building out my own projects.
 
 ## About Me
 
-On the professional side, I enjoy programming and architecting automated workflows that incorporate machine learning. Hooking up various services together and transforming raw data into a usable/actionable insight always gets me into a flow state.
+On the professional side, I enjoy programming systems and maintaining cloud platforms. Hooking up various distributed services together with extensive observability and deployment automation has been a big focus of mine.
 
-Since June 2022, I've been working at Nationwide, where I've primarily created and maintain machine learning workflows using Databricks and AWS.
 
 ## Education
 
-I graduated from the Ohio State University with a degree in Economics, specializing in econometric methods. Been studying machine learning and statistics at scale since.
+I graduated from the Ohio State University with a degree in both Applied Economics and Chinese. 
 
 ## Personal Projects and Contributions
 
-Currently focusing on building out various different machine learning projects using AWS and Kubeflow to automate the workloads - putting the output onto my [GitHub pages site](https://maxdelong.github.io/maxdelong-mainsite/) for everyone to see! 
+Currently focusing on building out various experiments and finding what I like.
 
-Also, I'm learning how to contribute to open source projects like [Apache Spark](https://github.com/apache/spark), [Apache Airflow](https://github.com/apache/airflow), [PyTorch](https://github.com/pytorch/pytorch), and [Veloren](https://github.com/veloren/veloren). I believe that open source projects are key to a better and more stable tech future.
+Currently contributing to [Prometheus](https://github.com/prometheus/prometheus), [polars](https://github.com/pola-rs/polars), [delta-rs](https://github.com/delta-io/delta-rs), and [delta-kernel-rs](https://github.com/delta-incubator/delta-kernel-rs). I believe that open source projects are the key to a better future and less reliance on any individual company.
 
 Feel free to browse through my repositories and check out the cool stuff I've been up to. And if you're interested in collaborating or have any questions, don't hesitate to reach out.
